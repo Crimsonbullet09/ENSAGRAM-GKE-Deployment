@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: aymane55/frontend
+          image: aymane55/ensagram-frontend
           ports:  
             - containerPort: 3000
 ---
